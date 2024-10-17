@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 def main():
     # Set the title of the app
-    st.sidebar.title("Telco Customer Churn")
+   
     st.title("Welcome to the Churn Prediction App")
     image = Image.open('main_dashboard.png')
 
