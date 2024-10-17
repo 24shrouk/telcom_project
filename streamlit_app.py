@@ -10,3 +10,6 @@ def main():
 # Display the image in Streamlit
     st.image(image, use_column_width=True)
 
+if __name__ == "__main__":
+    main()
+
